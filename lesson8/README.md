@@ -21,16 +21,16 @@ Adding boot menu entry for UEFI Firmware Settings ...
 done
 
 ```
-![[Pasted image 20250405211440.png]]
+![Pasted image 20250405211440.png](https://github.com/MarcusMcCandless/otus_linux_admin_pro/blob/main/lesson8/Pasted%20image%2020250405211440.png)
 
 ### Способ 1. init=/bin/bash
-![[VirtualBox_ubuntu_serv2402_02_04_2025_17_02_32.png]]
+![VirtualBox_ubuntu_serv2402_02_04_2025_17_02_32.png](https://github.com/MarcusMcCandless/otus_linux_admin_pro/blob/main/lesson8/VirtualBox_ubuntu_serv2402_02_04_2025_17_02_32.png)
 
-![[VirtualBox_ubuntu_serv2402_02_04_2025_17_05_12.png]]
+![VirtualBox_ubuntu_serv2402_02_04_2025_17_05_12.png](https://github.com/MarcusMcCandless/otus_linux_admin_pro/blob/main/lesson8/VirtualBox_ubuntu_serv2402_02_04_2025_17_05_12.png)
 ### Способ 2. Recovery mode
-![[VirtualBox_ubuntu_serv2402_02_04_2025_17_08_54.png]]
+![VirtualBox_ubuntu_serv2402_02_04_2025_17_08_54.png](https://github.com/MarcusMcCandless/otus_linux_admin_pro/blob/main/lesson8/VirtualBox_ubuntu_serv2402_02_04_2025_17_08_54.png)
 
-![[VirtualBox_ubuntu_serv2402_02_04_2025_17_09_13.png]]
+![VirtualBox_ubuntu_serv2402_02_04_2025_17_09_13.png](https://github.com/MarcusMcCandless/otus_linux_admin_pro/blob/main/lesson8/VirtualBox_ubuntu_serv2402_02_04_2025_17_09_13.png)
 ## Установить систему с LVM, после чего переименовать VG
 
 ```
